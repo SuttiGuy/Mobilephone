@@ -1,0 +1,35 @@
+[
+  
+    {
+        "ID":"1",
+        "name":"Iphone 12 ProMax",
+        "OSMobile":"ios 14",
+        "ramMobile":"128 GB",
+        "romMobile":"ไม่สามารถระบุได้",
+        "BatteryMobile":"3,687 mAh",
+        "SaleMobile":"39,900",
+        "imgMobile":"img/Iphone_12promax.png"
+    },
+    {
+        "ID":"2",
+        "name":"Oppo A16",
+        "OSMobile":"Android 11",
+        "ramMobile":"3GB",
+        "romMobile":"32GB",
+        "BatteryMobile":"5,000 mAh",
+        "SaleMobile":"4,799",
+        "imgMobile":"img/Oppo_a16.png"  
+    },
+    {
+        "ID":"3",
+        "name":"Samsung Galaxy S23",
+        "OSMobile":"Android 13",
+        "ramMobile":"8GB",
+        "romMobile":"128GB",
+        "BatteryMobile":"3,900 mAh",
+        "SaleMobile":"30,900",
+        "imgMobile":"img/Samsung_Galaxy_s23.png"  
+    }
+
+    
+]
